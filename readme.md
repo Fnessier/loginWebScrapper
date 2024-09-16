@@ -20,7 +20,7 @@ https://www.linkedin.com/in/francisco-nessier/
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone [se quitó una URL no válida]
+   git clone (https://github.com/Fnessier/loginWebScrapper)
 
 correr el archivo install.bat para instalar las dependencias en el entorno virtual loginEnv que generara automaticamente.
 
