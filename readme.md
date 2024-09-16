@@ -1,8 +1,14 @@
-# Nombre de tu Proyecto
+# Login Webscrapper
 
 **Descripción :**
 
-[Breve descripción del proyecto, su objetivo y a quién puede beneficiar]
+Breve script de logeo en plataforma de reservas de conocido consulado internacional.
+El proyecto intenta automatizar el logeo e intento de reserva en busqueda de posibles turnos fortuitos.
+De todas maneras, resulta adaptable para diferentes plataformas para uso personal como posbile testeo de calidad con manejo de errores.
+Gracias por revisar mi repositorio, si tienen cualquier duda o contribucion no dudes en contactarme
+
+https://www.linkedin.com/in/francisco-nessier/
+
 
 **Tabla de contenidos:**
 
@@ -18,7 +24,7 @@
 
 correr el archivo install.bat para instalar las dependencias en el entorno virtual loginEnv que generara automaticamente.
 
-2. **Uso**
+##  Uso
 
 El archivo de logeo es facilmente configurable en tanto se modifique el URL de pagina de ingreso y posteriormente se identifique el ID de los campos a completar con las credenciales de acceso.
 Cambiar las credenciales dentro de scriptLogin.py por la credenciales de usuario.
@@ -28,6 +34,6 @@ Guardar cambios y correr el archivo logincmd.bat desde la carpeta de proyecto.
 
 El archivo automatizacion.log se genera automaticamente y guardo todos los eventos del programa.
 
-3. **Licencia**
+##  Licencia
 
 Este proyecto está licenciado bajo la licencia MIT. Para más detalles, consulta el archivo LICENSE.
